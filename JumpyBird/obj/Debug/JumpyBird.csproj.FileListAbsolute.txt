@@ -1,0 +1,9 @@
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\bin\Debug\JumpyBird.exe.config
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\bin\Debug\JumpyBird.exe
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\bin\Debug\JumpyBird.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\obj\Debug\JumpyBird.csprojResolveAssemblyReference.cache
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\obj\Debug\JumpyBird.Properties.Resources.resources
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\obj\Debug\JumpyBird.csproj.GenerateResource.Cache
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\obj\Debug\JumpyBird.exe
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\obj\Debug\JumpyBird.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\JumpyBird\JumpyBird\obj\Debug\JumpyBird.JumpyBird.resources
