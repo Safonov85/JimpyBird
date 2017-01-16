@@ -26,6 +26,13 @@ namespace JumpyBird
             LoadInstance();
         }
 
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            graphics.Clear(backgroundColor);
+            graphics.FillRectangle(brush, new Rectangle(100, 100, 100, 100));
+            graphicsOverride.DrawImage(bitmap, 0, 0, this.Width, this.Height);
+        }
+
         void LoadInstance()
         {
             brush = new System.Drawing.SolidBrush(System.Drawing.Color.FromArgb(250, 250, 250));
