@@ -40,6 +40,8 @@ namespace JumpyBird
                 graphics.FillRectangle(item.wallColor, item.wallUp);
             }
 
+            xPosition -= 2;
+
             graphicsOverride.DrawImage(bitmap, 0, 0, this.Width, this.Height);
         }
 
@@ -50,7 +52,7 @@ namespace JumpyBird
             bitmap = new Bitmap(this.Width, this.Height);
             graphics = Graphics.FromImage(bitmap);
             graphicsOverride = this.CreateGraphics();
-            xPosition = 20;
+            xPosition = 370;
             wall = new List<Wall>();
             AddWall();
             timer.Start();
