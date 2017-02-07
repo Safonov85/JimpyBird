@@ -70,8 +70,16 @@ namespace JumpyBird
                     jumpStop = 0;
                 }
             }
-
+            Collision();
             graphicsOverride.DrawImage(bitmap, 0, 0, this.Width, this.Height);
+        }
+
+        void Collision()
+        {
+            if(yBirdPosition < yPosition && xBirdPosition < xPosition[0])
+            {
+                this.Text = "Collided";
+            }
         }
 
         void LoadInstance()
